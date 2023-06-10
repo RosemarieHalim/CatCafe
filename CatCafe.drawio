@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T15:31:39.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2X8Q35CoHWum84nHVDAo" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T15:48:07.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="S9r3Jc5CXWMekaLFPkUB" version="21.3.8" type="github">
   <diagram name="Page-1" id="Xms7GjZd3My_gEHVBKcg">
-    <mxGraphModel dx="3541" dy="1071" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2294" dy="1617" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -51,10 +51,10 @@
           <mxGeometry x="360" y="20" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ah0YgZg6HlVCOq0gjAIQ-21" value="&lt;h1&gt;notes&lt;/h1&gt;&lt;p&gt;key audience&lt;/p&gt;&lt;p&gt;goal of company&lt;/p&gt;&lt;p&gt;what separates from rest&lt;/p&gt;&lt;p&gt;use square for shop&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;https://squareup.com/ca/en&lt;/span&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="170" width="170" height="190" as="geometry" />
+          <mxGeometry x="-250" y="170" width="170" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Ah0YgZg6HlVCOq0gjAIQ-22" value="need" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-290" y="40" width="170" height="120" as="geometry" />
+          <mxGeometry x="-250" y="40" width="170" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ah0YgZg6HlVCOq0gjAIQ-23" value="branding" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="Ah0YgZg6HlVCOq0gjAIQ-22" vertex="1">
           <mxGeometry y="30" width="170" height="30" as="geometry" />
@@ -189,10 +189,10 @@
           <mxGeometry x="365" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bD9aCH7fuvaWQvH_nZB7-8" value="FOOTER" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="45" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bD9aCH7fuvaWQvH_nZB7-9" value="hours of operation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="205" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bD9aCH7fuvaWQvH_nZB7-10" value="donos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="45" y="390" width="120" height="60" as="geometry" />
@@ -201,7 +201,7 @@
           <mxGeometry x="45" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bD9aCH7fuvaWQvH_nZB7-12" value="socials" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="720" width="120" height="60" as="geometry" />
+          <mxGeometry x="365" y="810" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bD9aCH7fuvaWQvH_nZB7-13" value="contact SPCA" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="525" y="390" width="120" height="60" as="geometry" />
