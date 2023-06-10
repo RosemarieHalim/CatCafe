@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T14:48:43.316Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="ZVU4UqKtBHNs266RPk97" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T15:01:02.821Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="rUjB2KyNTUY-TQ168Bto" version="21.3.8" type="github">
   <diagram name="Page-1" id="Xms7GjZd3My_gEHVBKcg">
     <mxGraphModel dx="2921" dy="739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -194,7 +194,7 @@
         <mxCell id="bD9aCH7fuvaWQvH_nZB7-9" value="hours of operation" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="770" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bD9aCH7fuvaWQvH_nZB7-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="bD9aCH7fuvaWQvH_nZB7-10" value="donos" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="390" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bD9aCH7fuvaWQvH_nZB7-11" value="map location" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -232,6 +232,21 @@
         </mxCell>
         <mxCell id="bD9aCH7fuvaWQvH_nZB7-25" value="sort by" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bD9aCH7fuvaWQvH_nZB7-27" value="drinks" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bD9aCH7fuvaWQvH_nZB7-28" value="food" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bD9aCH7fuvaWQvH_nZB7-29" value="cat treats" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bD9aCH7fuvaWQvH_nZB7-31" value="get involved" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bD9aCH7fuvaWQvH_nZB7-32" value="volunteer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
